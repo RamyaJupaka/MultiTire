@@ -1,0 +1,15 @@
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csprojAssemblyReference.cache
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.Gui.EmployeeAndUserForm.resources
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.Properties.Resources.resources
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.GenerateResource.cache
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.CoreCompileInputs.cache
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.exe.config
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.exe
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.pdb
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\bin\Debug\FinalProject_ClassLibrary.dll
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\bin\Debug\FinalProject_ClassLibrary.pdb
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.CopyComplete
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.exe
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.pdb
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.Gui.CustomerFormName.resources
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.Gui.BookForm.resources

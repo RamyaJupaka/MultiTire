@@ -1,0 +1,6 @@
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_ClassLibrary\obj\Debug\FinalProject_ClassLibrary.csprojAssemblyReference.cache
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_ClassLibrary\obj\Debug\FinalProject_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_ClassLibrary\bin\Debug\FinalProject_ClassLibrary.dll
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_ClassLibrary\bin\Debug\FinalProject_ClassLibrary.pdb
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_ClassLibrary\obj\Debug\FinalProject_ClassLibrary.dll
+C:\Users\hanha\Documents\A_C#_SQL\FinalProject_HiTech\FinalProject_ClassLibrary\obj\Debug\FinalProject_ClassLibrary.pdb
